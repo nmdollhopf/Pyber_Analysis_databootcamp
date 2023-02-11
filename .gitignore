@@ -1,3 +1,6 @@
+# ignore module work file unrelated to the challenge
+module_practice.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
